@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
-  <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Axios%20%7C%20API-blue" alt="Tech">
-  <img src="https://img.shields.io/badge/Testing-Postman-orange" alt="Postman">
+  <img src="https://img.shields.io/badge/Tech-API%20Integration-blue" alt="Tech">
 </p>
 
 A responsive frontend web application built with **HTML, CSS, and JavaScript** that integrates a public **Free API** using **Axios** to fetch, handle, and display dynamic data seamlessly.
@@ -18,11 +17,15 @@ A responsive frontend web application built with **HTML, CSS, and JavaScript** t
 
 ## 🛠️ Tech Stack & Tools
 
-* **JavaScript (ES6+):** Core logic, asynchronous functions (`Async/Await`), and DOM manipulation.
-* **Axios:** Promise-based HTTP client used for making API requests.
-* **HTML5 & CSS3:** Modern, responsive UI design.
-* **Postman:** Tested and debugged API endpoints and JSON responses before integration.
-* **Free Public API:** Source of real-time or mock dynamic data.
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" style="margin: 0 12px;" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" style="margin: 0 12px;" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" style="margin: 0 12px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="55" height="55" style="margin: 0 12px;" alt="Axios" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" style="margin: 0 12px;" alt="Postman" />
+
+</div>
 
 ---
 
@@ -41,4 +44,4 @@ To test this project locally, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/naimi123/new-project-adane-ipa](https://github.com/naimi123/new-project-adane-ipa)
+   git clone [https://github.com/naimi123/new-project-adane-ipa.git](https://github.com/naimi123/new-project-adane-ipa.git)
