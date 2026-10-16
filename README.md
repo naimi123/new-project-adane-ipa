@@ -1,4 +1,4 @@
-# 🌐 API Data Fetcher App (JavaScript & Axios)
+#  API Data Fetcher App (JavaScript & Axios)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
@@ -9,13 +9,13 @@ A responsive frontend web application built with **HTML, CSS, and JavaScript** t
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-👉 **Check out the live website here:** [API Project Live Demo](https://naimi123.github.io/new-project-adane-ipa/)
+ **Check out the live website here:** [API Project Live Demo](https://naimi123.github.io/new-project-adane-ipa/)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -29,16 +29,16 @@ A responsive frontend web application built with **HTML, CSS, and JavaScript** t
 
 ---
 
-## ✨ Features
+##  Features
 
-* **📡 Asynchronous Requests:** Fetches data dynamically from a remote server using Axios.
-* **🔄 Error Handling:** Manages loading states and API errors cleanly.
-* **📱 Responsive Layout:** Clean interface that adjusts to different screen sizes.
-* **🧪 Tested with Postman:** Endpoints verified for optimal performance and correct payload structure.
+* ** Asynchronous Requests:** Fetches data dynamically from a remote server using Axios.
+* ** Error Handling:** Manages loading states and API errors cleanly.
+* ** Responsive Layout:** Clean interface that adjusts to different screen sizes.
+* ** Tested with Postman:** Endpoints verified for optimal performance and correct payload structure.
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 To test this project locally, follow these simple steps:
 
